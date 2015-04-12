@@ -8,9 +8,3 @@ function activitytwo ($var1, $var2, $var3)
 		echo "<tr><td>\$var3</td><td>$var1</td><td>$var2</td>";
 	}
 activitytwo(10,1,20);
-/**
- * Created by PhpStorm.
- * User: Jason Griffin
- * Date: 4/12/2015
- * Time: 11:26 AM
- */
